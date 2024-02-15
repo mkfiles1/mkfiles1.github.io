@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to see my plants?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Moira Files and my extensive plant collection includes:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Six Different varities of African Violets
+- Three Fiddle Leaf Figs
+- A Monstera Deliciosa
+- A Thai Constelation Monstera
+- A Spider Plant
+- Two Varigated Pothos
+- One Giant Varigated Pothos
+- An Elephant Ear Caladium
+- A Mother of a Thousand
+- An Elephant Food succulent
+- A seven foot tall Schefflera
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was gifted my first large indoor plant for Christmas in 2018. Since then I have aspired to collect differnt varities and plants so I can surrond myself with beautiful greenery. Eventually the goal is to have my own indoor jungle. Currently I have a total of twenty-six plants. I am consistantly propagating my existing plants and keeping an eye out for plants to add to my collection. I keep it all going with grow lights set up on a timer that I can edit on my phone. 

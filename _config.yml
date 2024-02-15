@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Moira's Garden
 
 # Your name to show in the footer
-author: Some Person
+author: Moira Files
 
 # --- List of links in the navigation bar --- #
 
@@ -39,15 +39,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "mkfiles@asu.edu"
+  facebook: ""
+  github: mkfiles1
+  twitter: ""
+  patreon: ""
+  youtube: ""
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: ""
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -65,7 +65,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is a virtual proof that of the indoor garden that Moira has created for herself.
 
 # --- General options --- #
 
@@ -99,15 +99,15 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+navbar-col: "#9932CC"
+navbar-text-col: "#696969"
+navbar-border-col: "#FFF8DC"
+page-col: "#F5F5F5"
+text-col: "#696969"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#9932CC"
+footer-text-col: "#696969"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
@@ -193,7 +193,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Whitehorse"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
